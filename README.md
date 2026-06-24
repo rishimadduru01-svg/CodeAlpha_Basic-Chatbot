@@ -21,4 +21,4 @@ def chatbot():
             print("🤖 Chatbot: Sorry, I don't understand that.")
 
 # Run the chatbot
-chatbot()
+python chatbot.py
